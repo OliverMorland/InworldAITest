@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: b732e17ff7b461943b9760748aa1496f
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWalls
+    second: {fileID: 2100000, guid: a973a8c732a94044ab7b206e86ca7302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_Blanket
+    second: {fileID: 2100000, guid: a5d34e48317f2934dbf8a0c9c996c6bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_Frame
+    second: {fileID: 2100000, guid: 5f10bf69551ed32429ddc3bd53634677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_Mattress
+    second: {fileID: 2100000, guid: 56300bff80961a445ad90228371abfce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_Pillow
+    second: {fileID: 2100000, guid: 99718f55172c9d34abe069f8fefb6a09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Closet-Dresser
+    second: {fileID: 2100000, guid: b993a3354b3db624bb617d97f10271ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entertainment_TV
+    second: {fileID: 2100000, guid: e9e5ad29ffbf3d74eaf62ed796acba74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 363b4e0d69b5b11479a878467d7b3e43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lazyboy
+    second: {fileID: 2100000, guid: a29adca00de976e4abc04571b56deb80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: O2
+    second: {fileID: 2100000, guid: c944af5071c7ded499cb58fc1887c29b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: O2_AirFlow
+    second: {fileID: 2100000, guid: 93537f1d0545da5479ef48af5d2a91c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: O2_AirFlowControl
+    second: {fileID: 2100000, guid: 37537a6266eb0ce4889b9eae395a1482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: O2_Plastic
+    second: {fileID: 2100000, guid: ec795f4bb80149c4e95a503d3b825013, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: O2_Wheels
+    second: {fileID: 2100000, guid: 07c01e02e46d77c428833ec2c3d2582c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OldFoodTray
+    second: {fileID: 2100000, guid: 6f310445936409244a93ad4ef7a5fa4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OldFoodTray_Bowl
+    second: {fileID: 2100000, guid: 7b54b9f8f89e9e740b14cefa5d40c202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OldFoodTray_Bread
+    second: {fileID: 2100000, guid: bb057470e3fc34c46af00e739d670065, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OldFoodTray_Orange
+    second: {fileID: 2100000, guid: f28e4eb5f09d7ed44bd0a170b728bea8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OldFoodTray_Plate
+    second: {fileID: 2100000, guid: 5c47e4d04f06527428fc384585d144ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OldFoodTray_Spoon
+    second: {fileID: 2100000, guid: 150b8d4fe1e5d8d4eaf17330f9b733e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PostOP_WindowBlind
+    second: {fileID: 2100000, guid: dab3891fdbfbc7b488601c30456afc74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RecRoomFloor
+    second: {fileID: 2100000, guid: 420be35c425201e4cb59898ef012972d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SideTable_Candle_Lamp
+    second: {fileID: 2100000, guid: 7997d6125bf662541914c9fdaac88473, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trash
+    second: {fileID: 2100000, guid: 8effe826952548a4097f708a0804135f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowFrame
+    second: {fileID: 2100000, guid: f2adacc626d9e0d42acede899b881e66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling
+    second: {fileID: 2100000, guid: 1997fdfece905a84d87a822f971b15ec, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWallsDoors
+    second: {fileID: 2800000, guid: 57e90964cc18cdc47ab6052ecf60f2f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bed_COL
+    second: {fileID: 2800000, guid: 36864a4db0c41314b8f55d25408e7b23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bed_NRM
+    second: {fileID: 2800000, guid: 6d059608b10251346a333fb66185f771, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_Gypsum_001_Base_Color
+    second: {fileID: 2800000, guid: 5d347704509e2294597f630b10a176cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_Gypsum_001_Metallic
+    second: {fileID: 2800000, guid: f5825bc5ed0740a48a3e06d491579b9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_Gypsum_001_Roughness
+    second: {fileID: 2800000, guid: ea25b976c3b6d0740b667baf8fc2ee0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_Gypsum_001_emissiveNew
+    second: {fileID: 2800000, guid: 24e221442d779bd4c9fb1ecf33a4cb31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Closet-Dresser_COL
+    second: {fileID: 2800000, guid: 37306ae3511655a45998046f29947831, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Closet-Dresser_NRM
+    second: {fileID: 2800000, guid: 124fe8e19b83a6643800b705bd97f479, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EntertainmentCenter_TV_COL
+    second: {fileID: 2800000, guid: 015361fb7c036cc488aabcdc54caf139, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lazyboy_Color
+    second: {fileID: 2800000, guid: 5e55dd29bc2890e4e936542cddeba942, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: O2_AirFlowControl_COL
+    second: {fileID: 2800000, guid: df0d1444a0a46c64295d9ace37771765, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: O2_AirFlowControl_NRM
+    second: {fileID: 2800000, guid: 9385802e35cf9c344ac84ef5a8260cfc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: O2_AirFlow_COL
+    second: {fileID: 2800000, guid: 9e2f963dfbdc40849a62c352ecc493eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: O2_COL
+    second: {fileID: 2800000, guid: 2471aa1ee1994ac4ea47f556923e6936, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: O2_NRM
+    second: {fileID: 2800000, guid: 088dfef8c82f1984eb42242b544519a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: O2_Plastic_COL
+    second: {fileID: 2800000, guid: c276d808f208b5c4194b5ef2f372d560, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: O2_Wheels_COL
+    second: {fileID: 2800000, guid: 797b474563b66024c805c200c9dd658c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: O2_Wheels_NRM
+    second: {fileID: 2800000, guid: 9b1c4413a4e344040b901d064344ab5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OldFoodTray_COL
+    second: {fileID: 2800000, guid: 9e67e26728614634783feac8bc7cf140, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OldFoodTray_NRM
+    second: {fileID: 2800000, guid: 4155503fc5c73784a9a87a2ab030f1ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PostOP_Window_Color
+    second: {fileID: 2800000, guid: 6b475e9eff74620418f338aacc687c95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RecRoomFloor_Color_2k
+    second: {fileID: 2800000, guid: 3903e68bf23c9bc4ca994ce74031876f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RecRoomFloor_Normal_2k
+    second: {fileID: 2800000, guid: 21693e98ecbb5aa4d9e820bfcbfa2c5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SideTable_Candle_Lamp_COL
+    second: {fileID: 2800000, guid: 56c63f40879e94247a1a35ad7ad47369, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Trash_COL
+    second: {fileID: 2800000, guid: a9c3d5f5bfa5d9d489cda0585d1bc556, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Trash_NRM
+    second: {fileID: 2800000, guid: 92527e106f83a6944b66c209c86946f2, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
