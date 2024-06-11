@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5abd9eaac9cc3e4585d7e8574c2511c, type: 3}
+  m_Name: the_residents_room_myfirstworkspace
+  m_EditorClassIdentifier: 
+  sceneFullName: workspaces/myfirstworkspace/scenes/the_residents_room
+  apiKey: zj36la61uvUS745kXBZyW2r0mFc6tSxm
+  apiSecret: xpzUEtNrdzZIXFq0vKwhQSlCIAiPOcaL6LlLGGbefOU4X6WpWheloKiFN87XX4XZ
+  characters:
+  - agentId: 
+    brainName: workspaces/myfirstworkspace/characters/kashyap_sridhar
+    givenName: Kashyap Sridhar
+    characterAssets:
+      rpmModelUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_model/dec1f472-fcf3-484a-80d8-c7f00eb65d28.glb
+      rpmImageUriPortrait: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/dec1f472-fcf3-484a-80d8-c7f00eb65d28_portrait.jpg
+      rpmImageUriPosture: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/dec1f472-fcf3-484a-80d8-c7f00eb65d28_posture.jpg
+      avatarImg: https://storage.googleapis.com/inworld-ai-usercontent-prod/2d_image/d090b4fe-f3bb-4711-a1de-08b2143f3107.jpg
+      avatarImgOriginal: https://storage.googleapis.com/inworld-ai-usercontent-prod/2d_image/d090b4fe-f3bb-4711-a1de-08b2143f3107-original.jpg
+      thumbnailProgress: 0
+      avatarProgress: 0
+    thumbnail: {fileID: 0}
+  capabilities:
+    audio: 1
+    emotions: 1
+    interruptions: 1
+    narratedActions: 0
+    regenerateResponse: 1
+    text: 1
+    triggers: 1
+    phonemeInfo: 1
+    relations: 1
+    debugInfo: 0
+    multiAgent: 1
